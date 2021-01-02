@@ -23,20 +23,22 @@
 	color: white;
 }
 
+.main {
+	display: flex;
+	justify-content: center;
+}
 
 .first-content {
 	background-color: white;
-	width: 30%;
+	width: 350px;
 	border: 5px solid gold;
 	box-sizing: border-box;
-	vertical-align: top;
-	margin-left: 3%;
-	margin-top: 4%; 
-	
-
 	border-radius: 30px;
 	display: inline-block;
+	vertical-align: top;
+	margin-top: 4%; 
 }
+
 
 
 .first-tart {
@@ -90,15 +92,16 @@
 
 .second-content {
 	background-color: white;
-	width: 30%;
+	width: 350px;
 	border: 5px solid gold;
 	box-sizing: border-box;
 	vertical-align: top;
-	margin-left: 2%;
+	margin-left: 3%;
 	margin-top: 4%; 
 
 	border-radius: 30px;
 	display: inline-block;
+	
 	
 }
 
@@ -137,16 +140,16 @@
 
 .third-content {
 	background-color: white;
-	width: 30%;
+	width: 350px;
 	border: 5px solid gold;
 	box-sizing: border-box;
 	vertical-align: top;
-	margin-left: 2%;
+	margin-left: 3%;
 	margin-top: 4%; 
-
+	
 	border-radius: 30px;
 	display: inline-block;
-
+	
 	
 }
 

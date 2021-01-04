@@ -23,9 +23,11 @@
 	color: white;
 }
 
-.main {
-	display: flex;
+.main { 
+	text-align: center;
+	/*display: flex;
 	justify-content: center;
+	*/
 }
 
 .first-content {
@@ -37,6 +39,7 @@
 	display: inline-block;
 	vertical-align: top;
 	margin-top: 4%; 
+
 }
 
 
@@ -52,14 +55,16 @@
 	font-size: 20px;
 	line-height: 23px;
 	display: inline-block;
-	color: #000000
+	color: #000000;
+	text-align: left;
+
 }	
 
 .first-recipe {
 	width: 100%;
 	height: 20%;
 	margin-top: 10%;
-	margin-left: 7%;
+	margin-left: 13%;
 	margin-bottom: 10%;
 
 	font-family: Times New Roman;
@@ -69,6 +74,7 @@
 	line-height: 23px;
 	display: inline-block;
 	color: #000000;
+	text-align: left;
 
 }
 
@@ -116,7 +122,8 @@
 	font-size: 20px;
 	line-height: 23px;
 	display: inline-block;
-	color: #000000
+	color: #000000;
+	text-align: left;
 	
 }
 
@@ -124,7 +131,7 @@
 	width: 100%;
 	height: 20%;
 	margin-top: 3%;
-	margin-left: 7%;
+	margin-left: 13%;
 	margin-bottom: 10%;
 
 	font-family: Times New Roman;
@@ -134,8 +141,7 @@
 	line-height: 23px;
 	display: inline-block;
 	color: #000000;
-	
-	
+	text-align: left;	
 }
 
 .third-content {
@@ -163,14 +169,15 @@
 	font-size: 20px;
 	line-height: 23px;
 	display: inline-block;
-	color: #000000
+	color: #000000;
+	text-align: left;
 }
 
 .third-recipe {
 	width: 100%;
 	height: 20%;
 	margin-top: 3%;
-	margin-left: 7%;
+	margin-left: 13%;
 	margin-bottom: 10%;
 	
 	font-family: Times New Roman;
@@ -180,6 +187,7 @@
 	line-height: 23px;
 	display: inline-block;
 	color: #000000;
+	text-align: left;
 	
 
 }
